@@ -10,9 +10,9 @@ export default function App() {
     setMarkdown(target.value);
   }
   return (
-    <div className="h-full w-full bg-gradient-to-t from-slate-700 to-slate-800">
+    <div className="h-full w-full bg-gradient-to-t from-zinc-700 to-zinc-800">
       <div className="flex justify-center items-center p-3 underline decoration-violet-400 ">
-        <h1 className="m-0 text-slate-200 text-2xl">Markdown Previewer</h1>
+        <h1 className="m-0 text-zinc-200 text-2xl">Markdown Previewer</h1>
       </div>
       <div className="flex justify-center align-middle md:justify-around h-[90%]">
         <Editor markdown={markdown} handleChange={handleChange} />
