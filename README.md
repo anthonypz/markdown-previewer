@@ -9,6 +9,8 @@ A simple app that lets you write and preview [markdown](https://www.markdownguid
 
 ## Screenshots
 
+<img src="https://github.com/anthonypz/markdown-previewer/blob/main/src/docs/images/screenshot.png" alt="markdown project" width="500px">
+
 ## Run Locally
 
 Clone the project
