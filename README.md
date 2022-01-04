@@ -16,7 +16,7 @@ A simple app that lets you write and preview [markdown](https://www.markdownguid
 Clone the project
 
 ```bash
-  git clone https://github.com/anthonypz/tenzies.git
+  git clone https://github.com/anthonypz/markdown-previewer.git
 ```
 
 Go to the project directory
